@@ -29,12 +29,4 @@
 - name: Dr. Charith Chitraranjan
   short: Charith Chitraranjan
   github: null
-  role: supervisor (internal)
-
-- name: Prof. Varuna de Silva
-  short: Varuna de Silva
-  github: null
-  role: supervisor (external)
-
-# Unknown contributors seen in ASF-S git history: Charuka09 / "Charuka Herath", llckbhk.
-# Add them here if they should be credited.
+  role: supervisor
