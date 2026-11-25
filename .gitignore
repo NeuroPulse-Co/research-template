@@ -1,0 +1,13 @@
+# Run outputs live outside git (see RECORDS.md section 4); only harvested small files are committed.
+outputs/
+data/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+console.log
+__pycache__/
+.venv/
+.ipynb_checkpoints/
